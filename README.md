@@ -1,2 +1,2 @@
 # my-portfolio
-Visit my page at: https://ajnarag-portfolio.netlify.app
+Visit my page at: https://ajnarag25.github.io/my-portfolio/
